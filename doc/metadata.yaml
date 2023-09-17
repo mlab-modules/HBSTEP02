@@ -1,0 +1,13 @@
+description: Stepper motor driver
+github_branch: HBSTEP02A
+github_description: Stepper motor driver
+github_repo: HBSTEP02
+github_url: https://github.com/mlab-modules/HBSTEP02
+homepage: false
+images:
+- doc/img/HBSTEP02A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: HBSTEP02
+updated: '2023-09-17T11:34:12.954775+00:00'
